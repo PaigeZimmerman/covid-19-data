@@ -3,7 +3,7 @@
     "path": "~/Desktop/GIT Projects/BIS-244-Fall-2022-zimmermanpaige/COVID-19_Project/Assignment 2.R",
     "project_path": "Assignment 2.R",
     "type": "r_source",
-    "hash": "31424056",
+    "hash": "4158092795",
     "contents": "",
     "dirty": false,
     "created": 1663468408402.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,20",
+        "cursorPosition": "16,1",
         "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1663470860,
+    "lastKnownWriteTime": 1663699725,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663470860492,
+    "last_content_update": 1663699725528,
     "read_only": false,
     "read_only_alternatives": []
 }

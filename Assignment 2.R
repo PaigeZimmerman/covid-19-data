@@ -9,7 +9,7 @@ cases <- filter(cases, state=="Pennsylvania")
 view(cases)
 
 n <- length(cases$date)
-cases$incr_cases <- 0
+cases$incr_cases <- 2
 cases$incr_deaths <- 0
 
 for (i in 2:n) {
